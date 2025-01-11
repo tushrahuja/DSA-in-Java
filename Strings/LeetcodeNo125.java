@@ -12,7 +12,6 @@ public class LeetcodeNo125 {
     if(str.length() == 0){
       return true;
     }
-    System.out.println(str);
     int start = 0;
     int end = str.length() - 1;
     boolean isP = false;
