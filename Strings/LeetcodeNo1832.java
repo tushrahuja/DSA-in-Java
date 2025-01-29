@@ -16,12 +16,10 @@ public class LeetcodeNo1832 {
       for (char elem : ch) {
         if (elem == i) {
           found = true;
-          break;
         }
       }
       if (!found) { 
         isPangram = false;
-        break;
       }
     }
     return isPangram;
