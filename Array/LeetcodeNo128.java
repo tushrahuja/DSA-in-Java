@@ -11,14 +11,14 @@ public class LeetcodeNo128 {
     }
     Arrays.sort(nums);
     int count = 1;
-    int leastSmaller = Integer.MIN_VALUE;
+    int lastSmaller = Integer.MIN_VALUE;
     int longest = 1;
     for (int i = 0; i < nums.length; i++) {
-      if (nums[i] - 1 == leastSmaller) {
+      if (nums[i] - 1 == lastSmaller) {
         count += 1;
-        leastSmaller = nums[i];
-      } else if (nums[i] != leastSmaller) {
-        leastSmaller = nums[i];
+        lastSmaller = nums[i];
+      } else if (nums[i] != lastSmaller) {
+        lastSmaller = nums[i];
         count = 1;
       }
       longest = Math.max(longest, count);
