@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/tushrahuja/DSA-in-Java/tree/master/0152-maximum-product-subarray) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/tushrahuja/DSA-in-Java/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
