@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/tushrahuja/DSA-in-Java/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/tushrahuja/DSA-in-Java/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/tushrahuja/DSA-in-Java/tree/master/0204-count-primes) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/tushrahuja/DSA-in-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tushrahuja/DSA-in-Java/tree/master/0169-majority-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/tushrahuja/DSA-in-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
 | ------- |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tushrahuja/DSA-in-Java/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/tushrahuja/DSA-in-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
