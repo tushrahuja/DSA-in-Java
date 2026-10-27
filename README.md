@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/tushrahuja/DSA-in-Java/tree/master/0014-longest-common-prefix) |
 | [0152-maximum-product-subarray](https://github.com/tushrahuja/DSA-in-Java/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/tushrahuja/DSA-in-Java/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/tushrahuja/DSA-in-Java/tree/master/0204-count-primes) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/tushrahuja/DSA-in-Java/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/tushrahuja/DSA-in-Java/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/tushrahuja/DSA-in-Java/tree/master/0344-reverse-string) |
 | [1903-largest-odd-number-in-string](https://github.com/tushrahuja/DSA-in-Java/tree/master/1903-largest-odd-number-in-string) |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/tushrahuja/DSA-in-Java/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/tushrahuja/DSA-in-Java/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
