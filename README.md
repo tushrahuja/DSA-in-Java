@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/tushrahuja/DSA-in-Java/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/tushrahuja/DSA-in-Java/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/tushrahuja/DSA-in-Java/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tushrahuja/DSA-in-Java/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/tushrahuja/DSA-in-Java/tree/master/0242-valid-anagram) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tushrahuja/DSA-in-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/tushrahuja/DSA-in-Java/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/tushrahuja/DSA-in-Java/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/tushrahuja/DSA-in-Java/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/tushrahuja/DSA-in-Java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/tushrahuja/DSA-in-Java/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/tushrahuja/DSA-in-Java/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/tushrahuja/DSA-in-Java/tree/master/1903-largest-odd-number-in-string) |
