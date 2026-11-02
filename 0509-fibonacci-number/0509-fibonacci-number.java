@@ -4,12 +4,7 @@ class Solution {
         if(n == 0) return 0;
         int first = 0;
         int second = 1;
-        int third = 0;
-        for(int i = 2; i <= n; i++){
-            third = first + second;
-            first = second;
-            second = third;
-        }
-        return third;
+        
+        return fib(n - 1) + fib(n - 2);
     }
 }
