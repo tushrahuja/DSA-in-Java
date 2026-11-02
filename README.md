@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/tushrahuja/DSA-in-Java/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/tushrahuja/DSA-in-Java/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/tushrahuja/DSA-in-Java/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/tushrahuja/DSA-in-Java/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/tushrahuja/DSA-in-Java/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/tushrahuja/DSA-in-Java/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/tushrahuja/DSA-in-Java/tree/master/1903-largest-odd-number-in-string) |
 ## Enumeration
 |  |
@@ -109,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/tushrahuja/DSA-in-Java/tree/master/0451-sort-characters-by-frequency) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/tushrahuja/DSA-in-Java/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/tushrahuja/DSA-in-Java/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
