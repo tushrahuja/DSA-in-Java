@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tushrahuja/DSA-in-Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tushrahuja/DSA-in-Java/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/tushrahuja/DSA-in-Java/tree/master/0204-count-primes) |
+| [0283-move-zeroes](https://github.com/tushrahuja/DSA-in-Java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tushrahuja/DSA-in-Java/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tushrahuja/DSA-in-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tushrahuja/DSA-in-Java/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/tushrahuja/DSA-in-Java/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/tushrahuja/DSA-in-Java/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/tushrahuja/DSA-in-Java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/tushrahuja/DSA-in-Java/tree/master/0344-reverse-string) |
 ## String
 |  |
