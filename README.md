@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tushrahuja/DSA-in-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/tushrahuja/DSA-in-Java/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/tushrahuja/DSA-in-Java/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/tushrahuja/DSA-in-Java/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/tushrahuja/DSA-in-Java/tree/master/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/tushrahuja/DSA-in-Java/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tushrahuja/DSA-in-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/tushrahuja/DSA-in-Java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tushrahuja/DSA-in-Java/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/tushrahuja/DSA-in-Java/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/tushrahuja/DSA-in-Java/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/tushrahuja/DSA-in-Java/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/tushrahuja/DSA-in-Java/tree/master/0509-fibonacci-number) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/tushrahuja/DSA-in-Java/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/tushrahuja/DSA-in-Java/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/tushrahuja/DSA-in-Java/tree/master/0344-reverse-string) |
 ## String
 |  |
