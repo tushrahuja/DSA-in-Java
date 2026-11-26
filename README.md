@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tushrahuja/DSA-in-Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tushrahuja/DSA-in-Java/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/tushrahuja/DSA-in-Java/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/tushrahuja/DSA-in-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tushrahuja/DSA-in-Java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tushrahuja/DSA-in-Java/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tushrahuja/DSA-in-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/tushrahuja/DSA-in-Java/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/tushrahuja/DSA-in-Java/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/tushrahuja/DSA-in-Java/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/tushrahuja/DSA-in-Java/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/tushrahuja/DSA-in-Java/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/tushrahuja/DSA-in-Java/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/tushrahuja/DSA-in-Java/tree/master/1903-largest-odd-number-in-string) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tushrahuja/DSA-in-Java/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/tushrahuja/DSA-in-Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tushrahuja/DSA-in-Java/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/tushrahuja/DSA-in-Java/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/tushrahuja/DSA-in-Java/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/tushrahuja/DSA-in-Java/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/tushrahuja/DSA-in-Java/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/tushrahuja/DSA-in-Java/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/tushrahuja/DSA-in-Java/tree/master/0451-sort-characters-by-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tushrahuja/DSA-in-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/tushrahuja/DSA-in-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tushrahuja/DSA-in-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/tushrahuja/DSA-in-Java/tree/master/0268-missing-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tushrahuja/DSA-in-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tushrahuja/DSA-in-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tushrahuja/DSA-in-Java/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -137,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tushrahuja/DSA-in-Java/tree/master/0852-peak-index-in-a-mountain-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/tushrahuja/DSA-in-Java/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
