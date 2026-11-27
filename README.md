@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/tushrahuja/DSA-in-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tushrahuja/DSA-in-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tushrahuja/DSA-in-Java/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/tushrahuja/DSA-in-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tushrahuja/DSA-in-Java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tushrahuja/DSA-in-Java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/tushrahuja/DSA-in-Java/tree/master/0344-reverse-string) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/tushrahuja/DSA-in-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tushrahuja/DSA-in-Java/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/tushrahuja/DSA-in-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
