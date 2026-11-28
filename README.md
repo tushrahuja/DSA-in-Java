@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/tushrahuja/DSA-in-Java/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tushrahuja/DSA-in-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tushrahuja/DSA-in-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0054-spiral-matrix](https://github.com/tushrahuja/DSA-in-Java/tree/master/0054-spiral-matrix) |
 | [0152-maximum-product-subarray](https://github.com/tushrahuja/DSA-in-Java/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/tushrahuja/DSA-in-Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tushrahuja/DSA-in-Java/tree/master/0189-rotate-array) |
@@ -151,5 +152,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/tushrahuja/DSA-in-Java/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tushrahuja/DSA-in-Java/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/tushrahuja/DSA-in-Java/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
